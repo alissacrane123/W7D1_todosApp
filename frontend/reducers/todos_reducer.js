@@ -14,7 +14,7 @@ const initialState = {
     title: 'wash dog',
     body: 'with soap',
     done: true
-  },
+  }
 };
 
 
